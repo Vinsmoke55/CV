@@ -1,6 +1,7 @@
 *{
 	margin: 0;
 	border:0;
+	font-size: 20px;
 }
 .heading{
 	background: linear-gradient(rgba(232, 60, 123, 0.61), rgba(16, 255, 139, 0.61),rgba(237, 166, 66, 0.61)),url("background.jpg");
@@ -55,6 +56,7 @@ img:hover{
 table{
 	border-collapse: collapse;
 	margin-bottom: 20px;
+	margin-left: 40px;
 }
 td{
 	border:solid black;
@@ -63,6 +65,7 @@ td{
 	font-weight: bold;
 	text-align: center;
 }
-h3{
+.exp,.declare{
 	margin-bottom: 20px;
+	margin-left: 40px;
 }
